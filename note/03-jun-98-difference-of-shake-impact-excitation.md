@@ -8,41 +8,42 @@
 
 系统运动方程在 Laplace域的表达式如下
 
-```math
+$$
 \left[[M]s^2 + [C]s + [K]\right]{X(s)} = {F(s)} 
 ===> 
 [B(s)]{X(s)} = {F(s)}
-```
+$$
 
 质量、阻尼、刚度矩阵[M], [C], [K] 都是对称矩阵。
 
 传递函数：
 
-```math
+$$
 
 [B(s)]^{-1} = {H(s)} = \frac {Adj[B(s)]} {det[B(s)]} = \frac {[A(s)]} {det[B(s)]}
-```
+$$
 
 其中：`Adj[B(s)]` 为 `B(s)` 的伴随矩阵，`det[B(s)]` 为矩阵行列式。 这就是矩阵行列式求法。
 
 `s = jw`
-```math
+
+$$
 [H(s)]_{s=jw} = [H(jw)] = \sum_{k=1}^m \left(\frac {[A_k]} {(jw-p_k)} + \frac {[A^*_k]} {(jw - p_k^*) } \right)
-```
+$$
 
 分项表示：
 
-```math
+$$
 h_{ij}(jw) =  \sum_{k=1}^m \left( \frac {a_{ijk}} {(jw-p_k)} + \frac {a_{ijk}^*} {(jw-p_k^*)} \right)
-```
+$$
 
 因为传递函数也是对阵矩阵，传递函数对称性 ---> **对等性**： 
 
 j点激励 i点响应的传递函数 = i点激励 j点响应的传递函数 
 
-```math
+$$
 h_{ij} = h_{ji}
-```
+$$
 
 看下面的图一目了然
 
