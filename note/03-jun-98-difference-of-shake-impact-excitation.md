@@ -19,7 +19,6 @@ $$
 传递函数：
 
 $$
-
 [B(s)]^{-1} = {H(s)} = \frac {Adj[B(s)]} {det[B(s)]} = \frac {[A(s)]} {det[B(s)]}
 $$
 
@@ -28,16 +27,16 @@ $$
 `s = jw`
 
 $$
-[H(s)]_{s=jw} = [H(jw)] = \sum_{k=1}^m \left(\frac {[A_k]} {(jw-p_k)} + \frac {[A^*_k]} {(jw - p_k^*) } \right)
+[H(s)]_{s=jw} = [H(jw)] = \sum_{k=1}^m \left(\frac {[A_k]} {(jw-p_k)} + \frac {[A^{\star}}_k]} {(jw - p_k^{\star}}) } \right)
 $$
 
 分项表示：
 
 $$
-h_{ij}(jw) =  \sum_{k=1}^m \left( \frac {a_{ijk}} {(jw-p_k)} + \frac {a_{ijk}^*} {(jw-p_k^*)} \right)
+h_{ij}(jw) =  \sum_{k=1}^m \left( \frac {a_{ijk}} {(jw-p_k)} + \frac {a_{ijk}^{\star}}} {(jw-p_k^{\star}})} \right)
 $$
 
-因为传递函数也是对阵矩阵，传递函数对称性 ---> **对等性**： 
+因为传递函数也是对阵矩阵，传递函数对称性 ---> 对等性： 
 
 j点激励 i点响应的传递函数 = i点激励 j点响应的传递函数 
 
