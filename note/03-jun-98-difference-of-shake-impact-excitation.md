@@ -1,7 +1,7 @@
 # 03 模态试验中激振器激励和力锤激励的差别
 
 - [June 98 Is there any difference between a modal test with a shaker excitation or impact excitation? ](https://www.uml.edu/docs/jun98_tcm18-189814.pdf)
-    - 理论上误差
+    - 理论上无误差
     - 实际中有差别
 
 ## 理论无差别
@@ -22,7 +22,7 @@ $$[B(s)]^{-1} = {H(s)} = \frac {Adj[B(s)]} {det[B(s)]} = \frac {[A(s)]} {det[B(s
 
 `s = jw`
 
-$$[H(s)]_{s=jw} = [H(jw)] = \sum_{k=1}^m \left(\frac {[A_k]} {(jw-p_k)} + \frac {[A_k^{\star}]} {(jw - p_k^{\star})} \right)$$
+$$[[H(jw)]= \sum_{k=1}^m \left(\frac {[A_k]} {(jw-p_k)} + \frac {[A_k^{\star}]} {(jw - p_k^{\star})} \right)$$
 
 分项表示：
 
