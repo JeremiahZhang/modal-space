@@ -22,7 +22,7 @@ $$[B(s)]^{-1} = {H(s)} = \frac {Adj[B(s)]} {det[B(s)]} = \frac {[A(s)]} {det[B(s
 
 `s = jw`
 
-$$[H(s)]_{s=jw} = [H(jw)] = \sum_{k=1}^m \left(\frac {[A_k]} {(jw-p_k)} + \frac {[A_k^{\star}]} {(jw - p_k^{\star}}) } \right)$$
+$$[H(s)]_{s=jw} = [H(jw)] = \sum_{k=1}^m \left(\frac {[A_k]} {(jw-p_k)} + \frac {[A_k^{\star}]} {(jw - p_k^{\star})} \right)$$
 
 分项表示：
 
