@@ -26,7 +26,7 @@ $$[H(s)]_{s=jw} = [H(jw)] = \sum_{k=1}^m \left(\frac {[A_k]} {(jw-p_k)} + \frac 
 
 分项表示：
 
-$$h_{ij}(jw) =  \sum_{k=1}^m \left( \frac {a_{ijk}} {(jw-p_k)} + \frac {a_{ijk}^{\star}}} {(jw-p_k^{\star}})} \right)$$
+$$h_{ij}(jw) = \sum_{k=1}^m \left(\frac {a_{ijk}} {(jw-p_k)} + \frac {a_{ijk}^{\star}} {(jw-p_k^{\star})} \right)$$
 
 因为传递函数也是对阵矩阵，传递函数对称性 ---> 对等性： 
 
