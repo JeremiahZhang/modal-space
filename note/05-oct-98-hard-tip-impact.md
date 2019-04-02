@@ -49,6 +49,10 @@
 
 > If the signal is not analog filtered before it reaches the analyzer, then the ADC may need to set excessively high to avoid apotential overload.  
 
+## 阅读志
+
+现在配套的测试软件, 都要过载提醒, 也容易查看相干系数, 非常方便.
+
 ## ChangeLog
 
 ```
