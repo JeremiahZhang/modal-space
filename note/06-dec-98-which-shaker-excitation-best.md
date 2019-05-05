@@ -1,4 +1,4 @@
-# 06 哪种激振器最好？有什么差异么？
+# 06 哪种激振器激励最好？有什么差异么？
 
 - [Which shaker excitation is best? Is there any difference? ](https://www.uml.edu/docs/dec98_tcm18-189813.pdf)
 
