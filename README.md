@@ -9,6 +9,7 @@ Learning note of [modal space](https://www.uml.edu/Research/SDASL/Education/Moda
 3. [力锤激励与激振器激励有差别吗?](https://github.com/JeremiahZhang/modal-space/blob/master/note/03-jun-98-difference-of-shake-impact-excitation.md) & [Note_Youdao](http://note.youdao.com/noteshare?id=0e081f6baaaa4f65d5855073690d1f93&sub=36B65BBE95FD474D8E02FEBA84F8E0C4)
 4. [移动力锤和移动传感器测试有区别吗?](https://github.com/JeremiahZhang/modal-space/blob/master/note/04-aug-98-roving-hammer-accelerometer.md) & [Note_Youdao](http://note.youdao.com/noteshare?id=25298441aa7427ee4ab490347bad8865&sub=C5C39735D2B94C3DB57B4FF9750619FA)
 5. [测试时总使用硬锤头好不好呢?](https://github.com/JeremiahZhang/modal-space/blob/master/note/05-oct-98-hard-tip-impact.md) & [Note_Youdao](http://note.youdao.com/noteshare?id=ae191f455dcfd8796f9fa6e9e4878959&sub=9068B6EE462E4114B8A15364048DFA43)
+6. [哪种激振器激励最好？有什么差异么？](https://github.com/JeremiahZhang/modal-space/blob/master/note/06-dec-98-which-shaker-excitation-best.md) & [Note_Youdao](http://note.youdao.com/noteshare?id=48a36b79bf08526d8040252faffe647d&sub=DF1FDA78E9D74F06BD2E5B858233B88F)
 
 ## ChangeLog
 
